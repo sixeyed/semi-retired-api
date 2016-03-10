@@ -1,0 +1,15 @@
+{
+    "items": 
+    [
+        {
+            "id": "news.headline.1",
+            "newsId" : "news.item.1",
+            "priority": 100
+        },
+        {
+            "id": "news.headline.2",
+            "newsId" : "news.item.2",
+            "priority": 150
+        }
+    ]
+}

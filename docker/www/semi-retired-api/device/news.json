@@ -1,0 +1,17 @@
+{
+    "items": 
+    [
+        {
+            "id": "news.item.1",
+            "priority": 100,
+            "headline":"HBase Succinctly released",
+            "itemUrl":"http://www.syncfusion.com/resources/techportal/details/ebooks/hbase"
+        },
+        {
+            "id": "news.item.2",
+            "priority": 150,
+            "headline":"HDInsight Deep Dive: Storm, HBase and Hive released",
+            "itemUrl":"https://www.pluralsight.com/courses/hdinsight-deep-dive-storm-hbase-hive"
+        }
+    ]
+}

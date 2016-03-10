@@ -1,0 +1,14 @@
+{
+    "items": [
+        {
+            "id": "campaign.item.1",
+            "priority": 100,
+            "headline":"Hive Succinctly coming soon"
+        },
+        {
+           "id": "campaign.item.2",
+            "priority": 150,
+            "headline":"Managing Azure IaaS with PowerShell coming soon"
+        }
+    ]
+}
